@@ -1,0 +1,1 @@
+C:\Users\jyshin\Desktop\tilon\08_논문\PE파일_언패킹_방법론\리버싱\책_리버싱핵심원리\소스코드\01_기초_리버싱\02_Hello_World!_리버싱\src\HelloWorld\Debug\HelloWorld.exe
